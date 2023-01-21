@@ -1,2 +1,2 @@
 #handsOnReact
-Created with CodeSandbox
+Basic react app created with CodeSandbox
